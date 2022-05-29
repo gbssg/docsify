@@ -1,1 +1,1 @@
-* [Standalone Page](standalone-page.md)
+* [Programm](standalone-page.md)
